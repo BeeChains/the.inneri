@@ -1,11 +1,29 @@
 ## The.InnerI/ 
+<a href="https://twitter.com/intent/tweet?button_hashtag=theinneri&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #theinneri</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div>
 | [IINC/](http://iinc.hns.to/) | [d🕸/](http://xn--d-rn3s.hns.to/) | [Serve The Light/](http://workinthedark.servethelight.hns.to/) | [@innerinetco](https://twitter.com/innerinetco) |
 [![fulllogo](https://user-images.githubusercontent.com/37987346/137148852-86f93047-7132-42f6-85e7-e44100cfb6fc.jpg)](http://inneri.hns.to/)
+
 
 # ["God dwells in you, as you, and you don't have to 'do' anything to be God-realized or Self-realized, it is already your true and natural state." Just drop all seeking, turn your attention inward, and sacrifice your mind to the One Self radiating in the Heart of your very being. For this to be your own presently lived experience, Self-Inquiry is the one direct and immediate way."](https://peacefulrivers.homestead.com/Maharshi.html#:~:text="God%20dwells%20in%20you%2C%20as,Heart%20of%20your%20very%20being.&text=in%20quest%20of%20the%20Self%20is%20the%20best%20means) Sri Ramana Maharshi
 # [Root Of The Internet/](http://rootoftheinternet.hns.to/)
 
 write essays like these at [OpenAI](https://openai.com/)
+
+
+# The Inner I
+
+The concept of the inner I, or the self, is often thought of as the awareness, consciousness, and sense of knowing and being that allows us to perceive and experience the world around us. It is the subjective aspect of our being that allows us to have thoughts, feelings, and perceptions, and to engage with the world in a meaningful way.
+
+At the heart of the inner I is the idea of awareness, or the ability to be conscious of one's own thoughts and feelings, as well as the world around us. This awareness allows us to engage with the present moment, to notice and pay attention to what is happening in our environment, and to reflect on our experiences and the choices we make.
+
+Consciousness, on the other hand, refers to the state of being aware and able to think, feel, and perceive. It is the subjective aspect of our experience, and it is what allows us to have a sense of self and to be able to engage with the world in a meaningful way.
+
+Knowing and being, or self-awareness and self-consciousness, are closely related to the inner I. Knowing refers to the ability to understand and recognize oneself and one's own thoughts and feelings, while being refers to the sense of existence and presence in the world. Together, these aspects of the inner I allow us to have a sense of agency and purpose, and to make choices and decisions based on our own values and goals.
+
+In summary, the inner I is the subjective aspect of our being that allows us to be aware, conscious, and self-aware, and to engage with the world in a meaningful way. It is the foundation of our sense of self, and it is essential for our ability to experience and understand the world around us.
+
+
 # The Inner I as the One Who Knows
 
 In this paper, we will explore the concept of The Inner I as the One Who Knows, and how this perspective can inform our understanding of knowledge and understanding.
