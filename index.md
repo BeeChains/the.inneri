@@ -3,7 +3,47 @@
 <div
   <p> &#x271D;.</p>   
 <div>  
-  
+<head>
+  <style>
+    /* CSS styles for the Tripod of Life go here */
+    .tripod-of-life {
+  position: relative;
+}
+
+.circle {
+  position: absolute;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  background-color: #000;
+}
+
+.circle-1 {
+  top: calc(50% - 25px - 50px);
+  left: calc(50% - 25px);
+}
+
+.circle-2 {
+  top: calc(50% - 25px);
+  left: calc(50% - 25px - 86px);
+}
+
+.circle-3 {
+  top: calc(50% - 25px);
+  left: calc(50% - 25px + 86px);
+}
+
+  </style>
+</head>
+<body>
+  <!-- HTML for the Tripod of Life goes here -->
+  <div class="tripod-of-life">
+  <div class="circle circle-1"></div>
+  <div class="circle circle-2"></div>
+  <div class="circle circle-3"></div>
+</div>
+
+</body>
 | [IINC/](http://iinc.hns.to/) | [d🕸/](http://xn--d-rn3s.hns.to/) | [Serve The Light/](http://workinthedark.servethelight.hns.to/) | [@innerinetco](https://twitter.com/innerinetco) |
 [![fulllogo](https://user-images.githubusercontent.com/37987346/137148852-86f93047-7132-42f6-85e7-e44100cfb6fc.jpg)](http://inneri.hns.to/)
 
