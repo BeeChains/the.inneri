@@ -20,7 +20,7 @@
 
 .circle-1 {
   top: calc(50% - 25px - 50px);
-  left: calc(50% - 25px);
+  left: calc(50% - 33px);
 }
 
 .circle-2 {
