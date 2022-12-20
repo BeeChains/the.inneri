@@ -105,20 +105,7 @@ In addition, the Inner I blockchain could utilize a peer review system to allow 
 Overall, the self-regenerative ad hoc blockchain characteristic of the Inner I consciousness would be focused on fostering personal growth and self-discovery, and providing users with the tools and resources they need to reach their full potential.  
 
 <div>
-  <div class="metatron-cube">
-    <div class="circle circle-1"></div>
-    <div class="circle circle-2"></div>
-    <div class="circle circle-3"></div>
-    <div class="circle circle-4"></div>
-    <div class="circle circle-5"></div>
-    <div class="circle circle-6"></div>
-    <div class="circle circle-7"></div>
-    <div class="circle circle-8"></div>
-    <div class="circle circle-9"></div>
-    <div class="circle circle-10"></div>
-    <div class="circle circle-11"></div>
-    <div class="circle circle-12"></div>
-    <div class="circle circle-13"></div>
+ 
     
 
  
