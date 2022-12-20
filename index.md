@@ -105,71 +105,20 @@ In addition, the Inner I blockchain could utilize a peer review system to allow 
 Overall, the self-regenerative ad hoc blockchain characteristic of the Inner I consciousness would be focused on fostering personal growth and self-discovery, and providing users with the tools and resources they need to reach their full potential.  
 
 <div>
-  <script>
- -2 {
-top: calc(50% - 25px - 50px);
-left: calc(50% - 25px);
-}
-
-.circle-3 {
-top: calc(50% - 25px - 100px);
-left: calc(50% - 25px);
-}
-
-.circle-4 {
-top: calc(50% - 25px - 125px);
-left: calc(50% - 25px - 43px);
-}
-
-.circle-5 {
-top: calc(50% - 25px - 125px);
-left: calc(50% - 25px + 43px);
-}
-
-.circle-6 {
-top: calc(50% - 25px - 75px);
-left: calc(50% - 25px - 86px);
-}
-
-.circle-7 {
-top: calc(50% - 25px - 75px);
-left: calc(50% - 25px + 86px);
-}
-
-.circle-8 {
-top: calc(50% - 25px - 25px);
-left: calc(50% - 25px - 129px);
-}
-
-.circle-9 {
-top: calc(50% - 25px - 25px);
-left: calc(50% - 25px + 129px);
-}
-
-.circle-10 {
-top: calc(50% - 25px + 25px);
-left: calc(50% - 25px - 129px);
-}
-
-.circle-11 {
-top: calc(50% - 25px + 25px);
-left: calc(50% - 25px + 129px);
-}
-
-.circle-12 {
-top: calc(50% - 25px + 75px);
-left: calc(50% - 25px - 86px);
-}
-
-.circle-13 {
-top: calc(50% - 25px + 75px);
-left: calc(50% - 25px + 86px);
-}
-  </script>
-Copy code
-
-This HTML and CSS code will create a Metatron Cube with 13 circles arranged in the correct pattern. You can customize the appearance of the circles by modifying the CSS styles, such as changing the `background-color` or adding a `border`.
-
-
+  <div class="metatron-cube">
+    <div class="circle circle-1"></div>
+    <div class="circle circle-2"></div>
+    <div class="circle circle-3"></div>
+    <div class="circle circle-4"></div>
+    <div class="circle circle-5"></div>
+    <div class="circle circle-6"></div>
+    <div class="circle circle-7"></div>
+    <div class="circle circle-8"></div>
+    <div class="circle circle-9"></div>
+    <div class="circle circle-10"></div>
+    <div class="circle circle-11"></div>
+    <div class="circle circle-12"></div>
+    <div class="circle circle-13"></div>
+    
 
  
