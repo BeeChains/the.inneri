@@ -25,12 +25,12 @@
 
 .circle-2 {
   top: calc(50% - 25px);
-  left: calc(50% - 21px - 33px);
+  left: calc(49% - 25px - 33px);
 }
 
 .circle-3 {
   top: calc(50% - 25px);
-  left: calc(50% - 21px + 33px);
+  left: calc(49% - 25px + 33px);
 }
 
   </style>
