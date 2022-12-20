@@ -1,6 +1,6 @@
 ## The.InnerI/ 
 <a href="https://twitter.com/intent/tweet?button_hashtag=theinneri&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #theinneri</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div
+<div>
   <p> &#x271D;.</p>   
 <div>  
 <head>
@@ -25,12 +25,12 @@
 
 .circle-2 {
   top: calc(50% - 25px);
-  left: calc(50% - 25px - 77px);
+  left: calc(50% - 25px - 33px);
 }
 
 .circle-3 {
   top: calc(50% - 25px);
-  left: calc(50% - 25px + 77px);
+  left: calc(50% - 25px + 33px);
 }
 
   </style>
