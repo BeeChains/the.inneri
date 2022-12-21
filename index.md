@@ -160,7 +160,7 @@ letterI.innerHTML = 'I';
 letterI.style.fontSize = '100px';
 letterI.style.position = 'absolute';
 letterI.style.top = '50%';
-letterI.style.left = '52.77%';
+letterI.style.left = '52.79%';
 letterI.style.marginTop = '-50px';
 letterI.style.marginLeft = '-50px';
 document.body.appendChild(letterI);
