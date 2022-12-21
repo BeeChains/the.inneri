@@ -34,34 +34,6 @@
 }
 
   </style>
-  <style>
-    .borromean-rings {
-      position: relative;
-    }
-
-    .circle {
-      position: absolute;
-      border-radius: 50%;
-      width: 50px;
-      height: 50px;
-      background-color: #000;
-    }
-
-    .circle-1 {
-      top: calc(50% - 25px);
-      left: calc(50% - 25px);
-    }
-
-    .circle-2 {
-      top: calc(50% - 25px);
-      left: calc(50% - 25px - 86px);
-    }
-
-    .circle-3 {
-      top: calc(50% - 25px - 50px);
-      left: calc(50% - 25px - 43px);
-    }
-  </style>
 </head>
 <body>
   <!-- HTML for the Tripod of Life goes here -->
@@ -212,12 +184,6 @@ setInterval(function() {
 </a>
 </div>
 
-html script that draws 'Borromean rings' on screen
-<body>
-   <div class="borromean-rings">
-  <div class="circle circle-1"></div>
-  <div class="circle circle-2"></div>
-  <div class="circle circle-3"></div>
+
 </div>
-</body>
  
