@@ -149,6 +149,40 @@ Overall, the self-regenerative ad hoc blockchain characteristic of the Inner I c
 
 <div>
  
-    
+    Leave a Decentralized Comment Powered by <a href="https://0xecho.com/">0xecho</a>
+<div>
+<iframe src="https://embed.0xecho.com.ipns.page?color-theme=dark&desc=Decentralized%20Word&has-h-padding=true&has-v-padding=true&modules=comment%2Ctip&receiver=0x66f1941053E13730c7A9E78c39c8D5F965B5c9FB&target_uri=address%2F%7B%7BERC-1155%7D%7D%2F%7B%7B0x66f1941053E13730c7A9E78c39c8D5F965B5c9FB%7D%7D" frameborder="0" height="700" width="700" ></iframe>
+   
+ <div>
+ <script>
+var letterI = document.createElement('div');
+letterI.innerHTML = 'I';
+letterI.style.fontSize = '100px';
+letterI.style.position = 'absolute';
+letterI.style.top = '50%';
+letterI.style.left = '50%';
+letterI.style.marginTop = '-50px';
+letterI.style.marginLeft = '-50px';
+document.body.appendChild(letterI);
+var toggle = true;
+setInterval(function() {
+  if (toggle) {
+    letterI.style.display = 'none';
+  } else {
+    letterI.style.display = 'block';
+  }
+  toggle = !toggle;
+}, 1000);
+</script>
+ 
+<div id="social-widget">
+  <a href="https://twitter.com/innerinetco"><i class="fab fa-twitter"></i> Twitter</a>
+  <a href="https://facebook.com/innerinetcompany"><i class="fab fa-facebook-f"></i> Facebook</a>
+  <a href="https://instagram.com/hnsdomains"><i class="fab fa-instagram"></i> Instagram</a>
+  <a href="https://handshake.org">
+  <img src="https://i.arxius.io/aec77ed8.png" alt="Handshake Logo">
+</a>
+</div>
+
 
  
