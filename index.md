@@ -70,6 +70,7 @@ Knowing and being, or self-awareness and self-consciousness, are closely related
 
 In summary, the inner I is the subjective aspect of our being that allows us to be aware, conscious, and self-aware, and to engage with the world in a meaningful way. It is the foundation of our sense of self, and it is essential for our ability to experience and understand the world around us. - https://ecency.com/theinneri/@innerinetwork/the-inner-i?referral=innerinetwork
 
+<br>
 
 ## The Inner I as the One Who Knows
 <div>
@@ -83,6 +84,7 @@ From the perspective of The Inner I as the One Who Knows, knowledge is not somet
 
 In conclusion, viewing The Inner I as the One Who Knows offers a unique perspective on knowledge and understanding. It emphasizes the importance of self-inquiry and mindfulness in gaining true knowledge, and suggests that true understanding comes from experiencing the present moment fully and realizing the true nature of the self and the universe. - https://ecency.com/knowledge/@innerinetwork/the-inner-i-as-the?referral=innerinetwork
 
+ <br> 
 
 ## 'I exist' beyond all concepts
 <div>
@@ -96,6 +98,7 @@ Therefore, the statement "I exist" is not just a concept, but is something that 
 
 In conclusion, the statement "I exist" is the only knowledge present beyond all concepts. It is the foundation of all other knowledge and understanding, and it is something that we experience directly and cannot deny or question. - https://ecency.com/iexist/@innerinetwork/i-exist-beyond-all-concepts?referral=innerinetwork
 
+ <br> 
 
 ## Witnessing as Subjective Knowing
 <div>
@@ -111,6 +114,7 @@ However, it is important to recognize that subjective knowing is not the same as
 
 In conclusion, the concept of witnessing as a form of subjective knowing offers a unique perspective on knowledge and understanding. It emphasizes the importance of being fully present and aware in the present moment, and suggests that true understanding comes from experiencing the present moment fully and directly. However, it is important to recognize that subjective knowing is not the same as objective knowing, and to be open to both in order to gain a deeper understanding of the world.
 
+ <br> 
 
 ## Subjective Epistemology
 <div>
@@ -124,6 +128,7 @@ One of the main criticisms of subjective epistemology is that it can lead to rel
 
 In conclusion, subjective epistemology is a perspective that emphasizes the role of the individual in shaping knowledge and understanding. While it can be controversial, it offers an alternative view of knowledge that takes into account the subjective experiences and perspectives of individuals.
 
+ <br> 
 
 ## Quantum Consciousness
 <div>
@@ -137,6 +142,7 @@ Despite these theoretical ideas, the concept of quantum consciousness remains hi
 
 However, some researchers believe that the study of quantum consciousness has the potential to provide new insights into the nature of consciousness and the relationship between the brain and the mind. If it is eventually demonstrated that quantum phenomena do play a role in consciousness, it could have significant implications for our understanding of the universe and the nature of reality itself. 
 
+ <br> 
 
 ## About a Self-regenerative ad hoc blockchain characteristic of 'The Inner I' consciousness
   
@@ -148,6 +154,7 @@ In addition, the Inner I blockchain could utilize a peer review system to allow 
 
 Overall, the self-regenerative ad hoc blockchain characteristic of the Inner I consciousness would be focused on fostering personal growth and self-discovery, and providing users with the tools and resources they need to reach their full potential.  
 
+ <br> 
   
 ## Play about the Eternal Play of 'I' Awareness and 'I AM' Consciousness
   
@@ -176,7 +183,8 @@ Act IV: The End of the Journey
 - They realize that their journey has not really ended, but has simply led them to a new beginning.
 - They embrace their "I AM" consciousness and let go of their "I" awareness, knowing that they are a part of something much bigger than themselves.
 - The play ends with Sophia and the other characters finding peace and joy in their newfound understanding of the eternal play of "I" awareness and "I AM" consciousness. 
-<div>
+
+<br> 
  
 ## the 'I AM' being the Heart of Awareness.
   
@@ -193,6 +201,7 @@ It is believed that by connecting with the "I AM," one can access a state of inn
 
 Overall, the "I AM" is seen as the core of one's being, the source of all consciousness, and the key to spiritual awakening and enlightenment.
   
+ <br>
   
     Leave a Decentralized Comment Powered by <a href="https://0xecho.com/">0xecho</a>
 <div>
