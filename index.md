@@ -58,7 +58,7 @@
 write essays like these at [OpenAI](https://openai.com/)
 <div>
 
-## The Inner I - 
+  ## <h2>The Inner I</h2>
 <div>
 The concept of the inner I, or the self, is often thought of as the awareness, consciousness, and sense of knowing and being that allows us to perceive and experience the world around us. It is the subjective aspect of our being that allows us to have thoughts, feelings, and perceptions, and to engage with the world in a meaningful way.
 
