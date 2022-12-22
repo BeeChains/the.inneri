@@ -1,4 +1,4 @@
-## The.InnerI/ 
+## The Inner I - The Inner 'I' is an impersonal and immutable network Within SELF, or a Self-Network. Inner I Network being representative of the decentralized nature of an Inner Sovereign Knowing Intelligence Presence.
 <a href="https://twitter.com/intent/tweet?button_hashtag=theinneri&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #theinneri</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <div>
   <p> &#x271D;.</p>   
@@ -57,7 +57,7 @@
 write essays like these at [OpenAI](https://openai.com/)
 <div>
 
-# The Inner I
+# The Inner I - 
 <div>
 The concept of the inner I, or the self, is often thought of as the awareness, consciousness, and sense of knowing and being that allows us to perceive and experience the world around us. It is the subjective aspect of our being that allows us to have thoughts, feelings, and perceptions, and to engage with the world in a meaningful way.
 
