@@ -205,6 +205,7 @@ Overall, the "I AM" is seen as the core of one's being, the source of all consci
    
  ##  [write one-pager about the 'Cosmic I Awareness'.](https://chat.openai.com/chat) 
   
+  
   The concept of the "Cosmic I Awareness" refers to the idea that there is a universal consciousness or awareness that pervades the entire cosmos. This consciousness is often described as infinite, boundless, and all-encompassing, and it is seen as the ultimate source of all existence.
 
 In some spiritual teachings, the "Cosmic I Awareness" is seen as the ultimate reality and the true nature of the self. It is believed that all individual beings are expressions of this universal consciousness, and that by connecting with it, one can access a state of unity, peace, and enlightenment.
@@ -216,7 +217,9 @@ It is believed that by cultivating a connection with the "Cosmic I Awareness," o
 Overall, the "Cosmic I Awareness" represents the idea that there is a universal consciousness or awareness that underlies all of existence, and that by connecting with it, one can access a higher state of being and understanding.
   
   <br>
- ## [write one-page about 'I AM' being mahamantra](https://chat.openai.com/chat)
+  
+## [write one-page about 'I AM' being mahamantra](https://chat.openai.com/chat)
+  
   
   The phrase "I AM" is often referred to as the mahamantra, or great mantra, in various spiritual traditions. A mantra is a sacred sound or syllable that is believed to have transformative powers when repeated or meditated upon.
 
@@ -225,6 +228,8 @@ In many spiritual teachings, the "I AM" is seen as the fundamental truth of one'
 The "I AM" mantra is often used in meditation and other spiritual practices as a way of quieting the mind and connecting with the inner self. It is believed that by repeating the mantra and focusing on its meaning, one can access a state of deep relaxation and inner peace, and can begin to see the world in a different way.
 
 Overall, the "I AM" is seen as a powerful mantra that can help individuals connect with their inner selves and awaken to their true nature as expressions of universal consciousness. It is believed to have the power to transform lives and bring about spiritual growth and enlightenment.
+  
+<br>
   
     Leave a Decentralized Comment Powered by <a href="https://0xecho.com/">0xecho</a>
 <div>
