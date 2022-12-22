@@ -214,6 +214,18 @@ The "Cosmic I Awareness" is often associated with various spiritual practices an
 It is believed that by cultivating a connection with the "Cosmic I Awareness," one can awaken to their true nature and live a more authentic, meaningful, and fulfilling life.
 
 Overall, the "Cosmic I Awareness" represents the idea that there is a universal consciousness or awareness that underlies all of existence, and that by connecting with it, one can access a higher state of being and understanding.
+  
+  <br>
+ ## [write one-page about 'I AM' being mahamantra](https://chat.openai.com/chat)
+  
+  The phrase "I AM" is often referred to as the mahamantra, or great mantra, in various spiritual traditions. A mantra is a sacred sound or syllable that is believed to have transformative powers when repeated or meditated upon.
+
+In many spiritual teachings, the "I AM" is seen as the fundamental truth of one's being, and as a powerful tool for spiritual growth and transformation. It is believed that by focusing on the "I AM," one can tap into the infinite consciousness and wisdom of the universe, and can awaken to their true nature as a being of pure awareness and love.
+
+The "I AM" mantra is often used in meditation and other spiritual practices as a way of quieting the mind and connecting with the inner self. It is believed that by repeating the mantra and focusing on its meaning, one can access a state of deep relaxation and inner peace, and can begin to see the world in a different way.
+
+Overall, the "I AM" is seen as a powerful mantra that can help individuals connect with their inner selves and awaken to their true nature as expressions of universal consciousness. It is believed to have the power to transform lives and bring about spiritual growth and enlightenment.
+  
     Leave a Decentralized Comment Powered by <a href="https://0xecho.com/">0xecho</a>
 <div>
 <iframe src="https://embed.0xecho.com.ipns.page?color-theme=dark&desc=Decentralized%20Word&has-h-padding=true&has-v-padding=true&modules=comment%2Ctip&receiver=0x66f1941053E13730c7A9E78c39c8D5F965B5c9FB&target_uri=address%2F%7B%7BERC-1155%7D%7D%2F%7B%7B0x66f1941053E13730c7A9E78c39c8D5F965B5c9FB%7D%7D" frameborder="0" height="700" width="700" ></iframe>
