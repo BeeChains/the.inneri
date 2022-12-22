@@ -156,7 +156,8 @@ Overall, the self-regenerative ad hoc blockchain characteristic of the Inner I c
 - She feels lost and confused, constantly questioning who she is and why she exists.
 - As she searches for answers, she begins to realize that she is not alone in this journey.
 - She meets other characters who are also seeking to understand their place in the world and their own consciousness.
-Act II: The Emergence of "I AM" Consciousness
+
+  Act II: The Emergence of "I AM" Consciousness
 
 - As Sophia and the other characters continue on their journey, they start to discover the concept of "I AM" consciousness.
 - They learn that "I AM" is the fundamental truth of our being, the essence of who we are beyond our thoughts, emotions, and experiences.
