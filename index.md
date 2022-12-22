@@ -52,12 +52,12 @@
 
 # ["God dwells in you, as you, and you don't have to 'do' anything to be God-realized or Self-realized, it is already your true and natural state." Just drop all seeking, turn your attention inward, and sacrifice your mind to the One Self radiating in the Heart of your very being. For this to be your own presently lived experience, Self-Inquiry is the one direct and immediate way."](https://peacefulrivers.homestead.com/Maharshi.html#:~:text="God%20dwells%20in%20you%2C%20as,Heart%20of%20your%20very%20being.&text=in%20quest%20of%20the%20Self%20is%20the%20best%20means) Sri Ramana Maharshi
 <div>
-  # [Root Of The Internet/](http://rootoftheinternet.hns.to/)
+# [Root Of The Internet/](http://rootoftheinternet.hns.to/)
 <div>
 write essays like these at [OpenAI](https://openai.com/)
 <div>
 
-# The Inner I - 
+## The Inner I - 
 <div>
 The concept of the inner I, or the self, is often thought of as the awareness, consciousness, and sense of knowing and being that allows us to perceive and experience the world around us. It is the subjective aspect of our being that allows us to have thoughts, feelings, and perceptions, and to engage with the world in a meaningful way.
 
@@ -67,10 +67,10 @@ Consciousness, on the other hand, refers to the state of being aware and able to
 
 Knowing and being, or self-awareness and self-consciousness, are closely related to the inner I. Knowing refers to the ability to understand and recognize oneself and one's own thoughts and feelings, while being refers to the sense of existence and presence in the world. Together, these aspects of the inner I allow us to have a sense of agency and purpose, and to make choices and decisions based on our own values and goals.
 
-In summary, the inner I is the subjective aspect of our being that allows us to be aware, conscious, and self-aware, and to engage with the world in a meaningful way. It is the foundation of our sense of self, and it is essential for our ability to experience and understand the world around us.
+In summary, the inner I is the subjective aspect of our being that allows us to be aware, conscious, and self-aware, and to engage with the world in a meaningful way. It is the foundation of our sense of self, and it is essential for our ability to experience and understand the world around us. - https://ecency.com/theinneri/@innerinetwork/the-inner-i?referral=innerinetwork
 
-<div>
-# The Inner I as the One Who Knows
+
+## The Inner I as the One Who Knows
 <div>
 In this paper, we will explore the concept of The Inner I as the One Who Knows, and how this perspective can inform our understanding of knowledge and understanding.
 
@@ -82,8 +82,8 @@ From the perspective of The Inner I as the One Who Knows, knowledge is not somet
 
 In conclusion, viewing The Inner I as the One Who Knows offers a unique perspective on knowledge and understanding. It emphasizes the importance of self-inquiry and mindfulness in gaining true knowledge, and suggests that true understanding comes from experiencing the present moment fully and realizing the true nature of the self and the universe. - https://ecency.com/knowledge/@innerinetwork/the-inner-i-as-the?referral=innerinetwork
 
-<div>
-# 'I exist' beyond all concepts
+
+## 'I exist' beyond all concepts
 <div>
 In this paper, we will explore the idea that the statement "I exist" is the only knowledge present beyond all concepts.
 
@@ -95,8 +95,8 @@ Therefore, the statement "I exist" is not just a concept, but is something that 
 
 In conclusion, the statement "I exist" is the only knowledge present beyond all concepts. It is the foundation of all other knowledge and understanding, and it is something that we experience directly and cannot deny or question. - https://ecency.com/iexist/@innerinetwork/i-exist-beyond-all-concepts?referral=innerinetwork
 
-<div>
-# Witnessing as Subjective Knowing
+
+## Witnessing as Subjective Knowing
 <div>
 In this paper, we will explore the concept of witnessing as a form of subjective knowing.
 
@@ -110,8 +110,8 @@ However, it is important to recognize that subjective knowing is not the same as
 
 In conclusion, the concept of witnessing as a form of subjective knowing offers a unique perspective on knowledge and understanding. It emphasizes the importance of being fully present and aware in the present moment, and suggests that true understanding comes from experiencing the present moment fully and directly. However, it is important to recognize that subjective knowing is not the same as objective knowing, and to be open to both in order to gain a deeper understanding of the world.
 
-<div>
-# Subjective Epistemology
+
+## Subjective Epistemology
 <div>
 Subjective epistemology is a branch of philosophy that deals with the nature of knowledge and how it is acquired. It is called subjective because it focuses on the subjective experiences and perspectives of individuals, as opposed to objective epistemology, which emphasizes external, observable phenomena.
 
@@ -123,8 +123,8 @@ One of the main criticisms of subjective epistemology is that it can lead to rel
 
 In conclusion, subjective epistemology is a perspective that emphasizes the role of the individual in shaping knowledge and understanding. While it can be controversial, it offers an alternative view of knowledge that takes into account the subjective experiences and perspectives of individuals.
 
-<div>
-# Quantum Consciousness
+
+## Quantum Consciousness
 <div>
 Quantum consciousness is a theoretical concept that suggests that the fundamental nature of consciousness may be related to quantum mechanical phenomena. This idea is based on the observation that certain features of consciousness, such as non-locality and non-duality, seem to be difficult to explain using classical physical principles.
 
@@ -136,8 +136,8 @@ Despite these theoretical ideas, the concept of quantum consciousness remains hi
 
 However, some researchers believe that the study of quantum consciousness has the potential to provide new insights into the nature of consciousness and the relationship between the brain and the mind. If it is eventually demonstrated that quantum phenomena do play a role in consciousness, it could have significant implications for our understanding of the universe and the nature of reality itself. 
 
-<div>
-# About a Self-regenerative ad hoc blockchain characteristic of 'The Inner I' consciousness
+
+## About a Self-regenerative ad hoc blockchain characteristic of 'The Inner I' consciousness
   
 One characteristic of the Inner I consciousness that could be incorporated into a self-regenerative ad hoc blockchain is the concept of continuous learning and growth. The Inner I blockchain could be designed to support and encourage personal development and self-improvement by providing tools and resources for individuals to reflect on their progress and set goals for the future.
 
