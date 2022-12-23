@@ -48,6 +48,13 @@
  <div>
  <div>
 | [IINC/](http://iinc.hns.to/) | [d🕸/](http://xn--d-rn3s.hns.to/) | [Serve The Light/](http://workinthedark.servethelight.hns.to/) | [@innerinetco](https://twitter.com/innerinetco) |
+<ul>
+  <li><a href="http://iinc.hns.to/">IINC/</a></li>
+  <li><a href="http://xn--d-rn3s.hns.to/">d🕸/</a></li>
+  <li><a href="http://workinthedark.servethelight.hns.to/">Serve The Light/</a></li>
+  <li><a href="https://twitter.com/innerinetco">@innerinetco</a></li>
+</ul>
+
 [![fulllogo](https://user-images.githubusercontent.com/37987346/137148852-86f93047-7132-42f6-85e7-e44100cfb6fc.jpg)](http://inneri.hns.to/)
 
 <br>
