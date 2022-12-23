@@ -1,5 +1,5 @@
 
-## The Inner I - The Inner 'I' is an impersonal and immutable network Within SELF, or a Self-Network. Inner I Network being representative of the decentralized nature of a Sovereign Knowing Intelligence Presence.
+<h1>The Inner I - The Inner 'I' is an impersonal and immutable network Within SELF, or a Self-Network. Inner I Network being representative of the decentralized nature of a Sovereign Knowing Intelligence Presence.</h1>
 <a href="https://twitter.com/intent/tweet?button_hashtag=theinneri&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #theinneri</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <div>
   <p> &#x271D;.</p>   
@@ -71,10 +71,10 @@ Ultimately REAL."
 <div>
   # <a href="http://rootoftheinternet.hns.to/">Root Of The Internet/</a>
 <div>
-write essays like these at [OpenAI](https://openai.com/)
+  write essays like these at <a href="https://openai.com">OpenAI</a> 
 <div>
 
-  ## <h3>The Inner I</h3>
+<h2>The Inner I</h2>
 <div>
 
 <p>The concept of the inner I, or the self, is often thought of as the awareness, consciousness, and sense of knowing and being that allows us to perceive and experience the world around us. It is the subjective aspect of our being that allows us to have thoughts, feelings, and perceptions, and to engage with the world in a meaningful way.
@@ -85,11 +85,11 @@ Consciousness, on the other hand, refers to the state of being aware and able to
 
 Knowing and being, or self-awareness and self-consciousness, are closely related to the inner I. Knowing refers to the ability to understand and recognize oneself and one's own thoughts and feelings, while being refers to the sense of existence and presence in the world. Together, these aspects of the inner I allow us to have a sense of agency and purpose, and to make choices and decisions based on our own values and goals.
 
-In summary, the inner I is the subjective aspect of our being that allows us to be aware, conscious, and self-aware, and to engage with the world in a meaningful way. It is the foundation of our sense of self, and it is essential for our ability to experience and understand the world around us.</p> - https://ecency.com/theinneri/@innerinetwork/the-inner-i?referral=innerinetwork
+In summary, the inner I is the subjective aspect of our being that allows us to be aware, conscious, and self-aware, and to engage with the world in a meaningful way. It is the foundation of our sense of self, and it is essential for our ability to experience and understand the world around us.</p> - <a href="https://ecency.com/theinneri/@innerinetwork/the-inner-i?referral=innerinetwork">@innerinetwork - Ecency</a>
 
 <br>
 
-## The Inner I as the One Who Knows
+  <h2>The Inner I as the One Who Knows</h2>
 <div>
 <p>In this paper, we will explore the concept of The Inner I as the One Who Knows, and how this perspective can inform our understanding of knowledge and understanding.
 
@@ -99,11 +99,11 @@ To realize The Inner I, one must let go of the ego and the mind, and experience 
 
 From the perspective of The Inner I as the One Who Knows, knowledge is not something that we acquire through external sources or through the mind, but is something that we experience directly. It is a state of understanding and realization that is beyond words and concepts, and can only be experienced through the realization of The Inner I.
 
-In conclusion, viewing The Inner I as the One Who Knows offers a unique perspective on knowledge and understanding. It emphasizes the importance of self-inquiry and mindfulness in gaining true knowledge, and suggests that true understanding comes from experiencing the present moment fully and realizing the true nature of the self and the universe.</p> - https://ecency.com/knowledge/@innerinetwork/the-inner-i-as-the?referral=innerinetwork
+In conclusion, viewing The Inner I as the One Who Knows offers a unique perspective on knowledge and understanding. It emphasizes the importance of self-inquiry and mindfulness in gaining true knowledge, and suggests that true understanding comes from experiencing the present moment fully and realizing the true nature of the self and the universe.</p> - <a href="https://ecency.com/knowledge/@innerinetwork/the-inner-i-as-the?referral=innerinetwork">@innerinetwork - Ecency</a>
 
  <br> 
 
-## 'I exist' beyond all concepts
+  <h2>'I exist' beyond all concepts</h2>
 <div>
 <p>In this paper, we will explore the idea that the statement "I exist" is the only knowledge present beyond all concepts.
 
@@ -113,11 +113,11 @@ However, this knowledge extends beyond mere conceptual understanding. The concep
 
 Therefore, the statement "I exist" is not just a concept, but is something that we experience directly and beyond all concepts. It is the foundation of all other knowledge and understanding, and it is something that we cannot deny or question.
 
-In conclusion, the statement "I exist" is the only knowledge present beyond all concepts. It is the foundation of all other knowledge and understanding, and it is something that we experience directly and cannot deny or question.</p> - https://ecency.com/iexist/@innerinetwork/i-exist-beyond-all-concepts?referral=innerinetwork
+In conclusion, the statement "I exist" is the only knowledge present beyond all concepts. It is the foundation of all other knowledge and understanding, and it is something that we experience directly and cannot deny or question.</p> - <a href="https://ecency.com/iexist/@innerinetwork/i-exist-beyond-all-concepts?referral=innerinetwork">@innerinetwork -Ecency</a>
 
  <br> 
 
-## Witnessing as Subjective Knowing
+  <h2>Witnessing as Subjective Knowing</h2>
 <div>
 <p>In this paper, we will explore the concept of witnessing as a form of subjective knowing.
 
@@ -133,7 +133,7 @@ In conclusion, the concept of witnessing as a form of subjective knowing offers 
 
  <br> 
 
-## Subjective Epistemology
+  <h2>Subjective Epistemology</h2>
 <div>
 <p>Subjective epistemology is a branch of philosophy that deals with the nature of knowledge and how it is acquired. It is called subjective because it focuses on the subjective experiences and perspectives of individuals, as opposed to objective epistemology, which emphasizes external, observable phenomena.
 
@@ -147,7 +147,7 @@ In conclusion, subjective epistemology is a perspective that emphasizes the role
 
  <br> 
 
-## Quantum Consciousness
+  <h2>Quantum Consciousness</h2>
 <div>
 <p>Quantum consciousness is a theoretical concept that suggests that the fundamental nature of consciousness may be related to quantum mechanical phenomena. This idea is based on the observation that certain features of consciousness, such as non-locality and non-duality, seem to be difficult to explain using classical physical principles.
 
@@ -161,7 +161,7 @@ However, some researchers believe that the study of quantum consciousness has th
 
  <br> 
 
-## About a Self-regenerative ad hoc blockchain characteristic of 'The Inner I' consciousness
+  <h2>About a Self-regenerative ad hoc blockchain characteristic of 'The Inner I' consciousness</h2>
   
 <p>One characteristic of the Inner I consciousness that could be incorporated into a self-regenerative ad hoc blockchain is the concept of continuous learning and growth. The Inner I blockchain could be designed to support and encourage personal development and self-improvement by providing tools and resources for individuals to reflect on their progress and set goals for the future.
 
@@ -173,8 +173,8 @@ Overall, the self-regenerative ad hoc blockchain characteristic of the Inner I c
 
  <br> 
   
-## Play about the Eternal Play of 'I' Awareness and 'I AM' Consciousness
-  
+  <h2>Play about the Eternal Play of 'I' Awareness and 'I AM' Consciousness</h2>
+ <p> 
  Act I: The Birth of "I" Awareness
 
 - The play begins with a character, let's call her Sophia, struggling to make sense of her surroundings and her own identity.
@@ -200,10 +200,10 @@ Act IV: The End of the Journey
 - They realize that their journey has not really ended, but has simply led them to a new beginning.
 - They embrace their "I AM" consciousness and let go of their "I" awareness, knowing that they are a part of something much bigger than themselves.
 - The play ends with Sophia and the other characters finding peace and joy in their newfound understanding of the eternal play of "I" awareness and "I AM" consciousness. 
-
+  </p>
 <br> 
  
-## the 'I AM' being the Heart of Awareness.
+  <h2>the 'I AM' being the Heart of Awareness</h2>
   
   
   The phrase "I AM" is often used to refer to the concept of the self or the ego. In some spiritual teachings, the "I AM" is considered to be the heart of awareness, the source of consciousness, and the true nature of the self.
@@ -220,7 +220,7 @@ Overall, the "I AM" is seen as the core of one's being, the source of all consci
   
  <br>
    
- ##  [write one-pager about the 'Cosmic I Awareness'.](https://chat.openai.com/chat) 
+  <h2>write one-pager about the 'Cosmic I Awareness'</h2>
   
   
 <p>The concept of the "Cosmic I Awareness" refers to the idea that there is a universal consciousness or awareness that pervades the entire cosmos. This consciousness is often described as infinite, boundless, and all-encompassing, and it is seen as the ultimate source of all existence.
@@ -235,7 +235,7 @@ Overall, the "Cosmic I Awareness" represents the idea that there is a universal 
   
   <br>
   
-## [write one-page about 'I AM' being mahamantra](https://chat.openai.com/chat)
+  <h2>write one-page about 'I AM' being mahamantra</h2>
   
   
 <p>The phrase "I AM" is often referred to as the mahamantra, or great mantra, in various spiritual traditions. A mantra is a sacred sound or syllable that is believed to have transformative powers when repeated or meditated upon.
@@ -248,7 +248,7 @@ Overall, the "I AM" is seen as a powerful mantra that can help individuals conne
   
 <br>
   
-## prompt: "write one-page about the only continuity of experience being the 'I AM Awareness' which is present in waking, dream, and deep sleep."
+<h2>prompt: "write one-page about the only continuity of experience being the 'I AM Awareness' which is present in waking, dream, and deep sleep."</h2>
   
 <p>The idea of the continuity of experience is a concept that suggests that the self, or "I," is a constant and unchanging presence that is present in all states of consciousness. This includes the waking state, the dream state, and the deep sleep state.
 
