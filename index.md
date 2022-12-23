@@ -61,9 +61,9 @@
 <p>
 "Inner Cosmic I,
   
-Only The Self, The God-Head,
+Only The SELF, The GODHEAD,
   
-Ultimately real."
+Ultimately REAL."
 </p>
 <br>  
 
