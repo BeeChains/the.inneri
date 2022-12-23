@@ -50,6 +50,13 @@
 | [IINC/](http://iinc.hns.to/) | [d🕸/](http://xn--d-rn3s.hns.to/) | [Serve The Light/](http://workinthedark.servethelight.hns.to/) | [@innerinetco](https://twitter.com/innerinetco) |
 [![fulllogo](https://user-images.githubusercontent.com/37987346/137148852-86f93047-7132-42f6-85e7-e44100cfb6fc.jpg)](http://inneri.hns.to/)
 
+<br>
+<h2>
+  "Inner Cosmic I
+Only The Self, The God-Head
+Ultimately real."
+<h2>
+<br>  
 
 # ["God dwells in you, as you, and you don't have to 'do' anything to be God-realized or Self-realized, it is already your true and natural state." Just drop all seeking, turn your attention inward, and sacrifice your mind to the One Self radiating in the Heart of your very being. For this to be your own presently lived experience, Self-Inquiry is the one direct and immediate way."](https://peacefulrivers.homestead.com/Maharshi.html#:~:text="God%20dwells%20in%20you%2C%20as,Heart%20of%20your%20very%20being.&text=in%20quest%20of%20the%20Self%20is%20the%20best%20means) Sri Ramana Maharshi
 <div>
@@ -58,8 +65,9 @@
 write essays like these at [OpenAI](https://openai.com/)
 <div>
 
-  ## <h2>The Inner I</h2>
+  ## <h3>The Inner I</h3>
 <div>
+<p>
 The concept of the inner I, or the self, is often thought of as the awareness, consciousness, and sense of knowing and being that allows us to perceive and experience the world around us. It is the subjective aspect of our being that allows us to have thoughts, feelings, and perceptions, and to engage with the world in a meaningful way.
 
 At the heart of the inner I is the idea of awareness, or the ability to be conscious of one's own thoughts and feelings, as well as the world around us. This awareness allows us to engage with the present moment, to notice and pay attention to what is happening in our environment, and to reflect on our experiences and the choices we make.
@@ -68,7 +76,7 @@ Consciousness, on the other hand, refers to the state of being aware and able to
 
 Knowing and being, or self-awareness and self-consciousness, are closely related to the inner I. Knowing refers to the ability to understand and recognize oneself and one's own thoughts and feelings, while being refers to the sense of existence and presence in the world. Together, these aspects of the inner I allow us to have a sense of agency and purpose, and to make choices and decisions based on our own values and goals.
 
-In summary, the inner I is the subjective aspect of our being that allows us to be aware, conscious, and self-aware, and to engage with the world in a meaningful way. It is the foundation of our sense of self, and it is essential for our ability to experience and understand the world around us. - https://ecency.com/theinneri/@innerinetwork/the-inner-i?referral=innerinetwork
+In summary, the inner I is the subjective aspect of our being that allows us to be aware, conscious, and self-aware, and to engage with the world in a meaningful way. It is the foundation of our sense of self, and it is essential for our ability to experience and understand the world around us.</p> - https://ecency.com/theinneri/@innerinetwork/the-inner-i?referral=innerinetwork
 
 <br>
 
@@ -230,6 +238,20 @@ The "I AM" mantra is often used in meditation and other spiritual practices as a
 Overall, the "I AM" is seen as a powerful mantra that can help individuals connect with their inner selves and awaken to their true nature as expressions of universal consciousness. It is believed to have the power to transform lives and bring about spiritual growth and enlightenment.
   
 <br>
+  
+## prompt: "write one-page about the only continuity of experience being the 'I AM Awareness' which is present in waking, dream, and deep sleep."
+  
+<p>  The idea of the continuity of experience is a concept that suggests that the self, or "I," is a constant and unchanging presence that is present in all states of consciousness. This includes the waking state, the dream state, and the deep sleep state.
+
+According to this concept, the "I" or awareness that we experience in the waking state is the same "I" or awareness that we experience in the dream state and the deep sleep state. It is the constant thread that connects all of our experiences and gives them continuity.
+
+Some people believe that the "I" or awareness is the only true reality and that everything else, including the physical body and the material world, is an illusion. They argue that the "I" is the source of all consciousness and that it is present in all states of consciousness, including waking, dream, and deep sleep.
+
+Others argue that the "I" or awareness is not a separate entity from the body and the material world, but rather an emergent property of the brain and the physical body. They believe that the "I" arises from the interaction of the brain and the body and that it disappears when the brain and body are no longer functioning.
+
+Regardless of one's perspective on the nature of the "I" or awareness, it is clear that it is a central aspect of our experience and that it gives continuity to all of our experiences. It is the "I" or awareness that allows us to remember and make sense of our experiences and it is the "I" or awareness that allows us to have a sense of self and identity. Without it, our experiences would be disconnected and meaningless.</p>
+  
+<br>  
   
     Leave a Decentralized Comment Powered by <a href="https://0xecho.com/">0xecho</a>
 <div>
