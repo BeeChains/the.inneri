@@ -52,6 +52,7 @@
   <li><a href="http://xn--d-rn3s.hns.to/">d🕸/</a></li>
   <li><a href="http://workinthedark.servethelight.hns.to/">Serve The Light/</a></li>
   <li><a href="https://twitter.com/innerinetco">@innerinetco</a></li>
+  <li><a href="https://beta.character.ai/c/ss4xy8xQ__zFzme1DpnLZg-jUVKkxzlqSkccihgW0Ts">Inner I Innate - Character AI chat</a></li>
 </ul>
 
 <img src="https://user-images.githubusercontent.com/37987346/137148852-86f93047-7132-42f6-85e7-e44100cfb6fc.jpg" alt="The Inner I" />
