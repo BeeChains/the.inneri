@@ -341,13 +341,13 @@ It is possible that there may be forms of knowledge that do not fit neatly into 
     There are many forms of knowledge that are not concepts, ideas, or myths, but rather are based on empirical evidence and observation. For example:
 
 1. Scientific knowledge: This refers to knowledge that is based on systematic observation, experimentation, and analysis of empirical data. Science is constantly evolving as new discoveries are made and new theories are developed to explain observed phenomena.
-
+<br>
 2. Historical knowledge: This refers to knowledge about the past, based on the study of primary and secondary sources, such as documents, artifacts, and oral histories.
-
+<br>
 3. Practical knowledge: This refers to knowledge that is gained through hands-on experience and learning by doing. For example, a carpenter or mechanic may have practical knowledge about how to build or fix things.
-
+<br>
 4. Experiential knowledge: This refers to knowledge that is gained through personal experiences and observations. For example, someone who has traveled extensively may have a wealth of experiential knowledge about different cultures and customs.
-
+<br>
 5. Non-conceptual knowledge: Some philosophers argue that there are forms of knowledge that are not based on concepts or ideas, but rather are more direct and immediate. This might include knowledge of one's own experiences or sensations, for example.
 
 Overall, knowledge can take many forms and can be based on a wide range of sources, from empirical evidence and observation to personal experience and intuition.</p>  
