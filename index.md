@@ -324,7 +324,48 @@ Other perspectives view the "I AM" as a more symbolic or metaphorical expression
 Ultimately, the meaning and significance of the "I AM" statement depends on the context in which it is used and the perspective of the individual who is using it. It is a complex and nuanced concept that is still the subject of much debate and exploration.</p>  
   <p><a href="#Is 'I AM' a Knowing Witness Presence of Being that is Innate?">article 16 ~ OpenAI</a></p>  
 <br>  
+
+<h2 id="what is knowledge exist that is not a concept, idea, or myth?">what is knowledge exist that is not a concept, idea, or myth?</h2>
   
+  <p>It is difficult to conceive of knowledge that is not a concept, idea, or myth, as these terms are closely related to the nature of knowledge itself.
+
+Concepts are mental representations that we use to understand and categorize the world around us. They are abstractions that allow us to make sense of the complexities of reality by reducing them to simpler, more manageable forms.
+
+Ideas are mental constructs that we use to represent and communicate our thoughts, beliefs, and understanding of the world. They are often based on concepts and are used to express our understanding of the relationships between different concepts.
+
+Myths are traditional stories that are used to explain natural phenomena, cultural practices, or historical events. They often contain elements of fantasy or the supernatural and are passed down from generation to generation.
+
+It is possible that there may be forms of knowledge that do not fit neatly into these categories, but it is difficult to imagine what such knowledge might look like or how it could be acquired or communicated. Ultimately, the nature of knowledge is a complex and multifaceted concept that is still the subject of much debate and exploration.
+  
+  second answer -
+    There are many forms of knowledge that are not concepts, ideas, or myths, but rather are based on empirical evidence and observation. For example:
+
+1. Scientific knowledge: This refers to knowledge that is based on systematic observation, experimentation, and analysis of empirical data. Science is constantly evolving as new discoveries are made and new theories are developed to explain observed phenomena.
+
+2. Historical knowledge: This refers to knowledge about the past, based on the study of primary and secondary sources, such as documents, artifacts, and oral histories.
+
+3. Practical knowledge: This refers to knowledge that is gained through hands-on experience and learning by doing. For example, a carpenter or mechanic may have practical knowledge about how to build or fix things.
+
+4. Experiential knowledge: This refers to knowledge that is gained through personal experiences and observations. For example, someone who has traveled extensively may have a wealth of experiential knowledge about different cultures and customs.
+
+5. Non-conceptual knowledge: Some philosophers argue that there are forms of knowledge that are not based on concepts or ideas, but rather are more direct and immediate. This might include knowledge of one's own experiences or sensations, for example.
+
+Overall, knowledge can take many forms and can be based on a wide range of sources, from empirical evidence and observation to personal experience and intuition.</p>  
+  
+ <p><a href="#what is knowledge exist that is not a concept, idea, or myth?">article 17 ~ OpenAI</a></p>  
+
+  <h2 id="what Knowledge is innate to humanity?">what Knowledge is innate to humanity?</h2>
+  
+  <p>It is difficult to determine what knowledge is innate to humanity, as the concept of innateness is highly controversial and there is no consensus among scientists and philosophers about what it means for something to be innate.
+
+Some researchers have proposed that certain abilities or tendencies, such as the ability to learn language or the tendency to form social bonds, are innate to humans. However, the extent to which these abilities or tendencies are innate or learned is often debated.
+
+Other researchers have argued that there is no such thing as innate knowledge, and that all knowledge is acquired through experience and learning.
+
+Overall, the question of what knowledge is innate to humanity is a complex and multifaceted one, and it is likely that different aspects of human cognition and behavior are influenced by a combination of innate and learned factors.</p>
+  <p><a href="#what Knowledge is innate to humanity?">article 18 ~ OpenAI</a></p>
+  
+  <br>
     Leave a Decentralized Comment Powered by <a href="https://0xecho.com/">0xecho</a>
 <div>
 <iframe src="https://embed.0xecho.com.ipns.page?color-theme=dark&desc=Decentralized%20Word&has-h-padding=true&has-v-padding=true&modules=comment%2Ctip&receiver=0x66f1941053E13730c7A9E78c39c8D5F965B5c9FB&target_uri=address%2F%7B%7BERC-1155%7D%7D%2F%7B%7B0x66f1941053E13730c7A9E78c39c8D5F965B5c9FB%7D%7D" frameborder="0" height="700" width="700" ></iframe>
