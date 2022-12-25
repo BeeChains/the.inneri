@@ -397,7 +397,36 @@ Self-knowledge can also be more subtle and abstract, such as an awareness of one
 Overall, knowledge can take many forms and can be based on a wide range of sources, from empirical evidence and observation to personal experience and intuition.
 </p>
   <p><a href="#what knowledge exist that is not a concept, idea, or myth?">article 20 ~ OpenAI</a></p>
+  
   <br>
+  <h2 id="Spiritual essay about, 'I AM' teachings of Jesus Christ.">Spiritual essay about, 'I AM' teachings of Jesus Christ.</h2>
+  <p>The concept of "I AM" is central to the teachings of Jesus Christ in the New Testament of the Bible. In the Gospel of John, Jesus uses the phrase "I AM" to refer to himself as the eternal, self-existent, and all-powerful God.
+
+One of the most famous instances of Jesus using "I AM" to describe himself is in John 8:58, when he says, "Before Abraham was, I AM." This statement is significant because it directly links Jesus to the divine name of God, which is revealed in the Old Testament as "I AM THAT I AM" (Exodus 3:14). By using this phrase, Jesus is claiming to be the one true God, the same God who revealed himself to Moses and the Israelites at the burning bush.
+
+Throughout the Gospel of John, Jesus uses various "I AM" statements to reveal his identity and purpose. For example, in John 6:35, he says, "I AM the bread of life." This statement suggests that Jesus is the source of spiritual nourishment and sustenance for his followers. Similarly, in John 10:7, he says, "I AM the door," which suggests that he is the way to salvation and a relationship with God.
+
+In addition to these "I AM" statements, Jesus also teaches about the concept of "I AM" in his parables and teachings. For example, in the parable of the Good Samaritan (Luke 10:30-35), Jesus teaches that we should love our neighbors as ourselves, and that this love is an expression of our own identity as children of God. This idea is closely connected to the concept of "I AM," as it suggests that our true identity and purpose is rooted in our relationship with God and our love for others.
+
+Overall, the "I AM" teachings of Jesus Christ are a powerful reminder of his divine nature and his role as the savior of the world. They challenge us to consider our own identity and purpose in light of his teachings, and to seek a deeper relationship with God through his grace and love.</p>
+  <p><a href="#Spiritual essay about, 'I AM' teachings of Jesus Christ.">article 21  ~ OpenAI</a></p>
+
+  <br>
+  <h2 id="verses Jesus said 'I Am'?">verses Jesus said 'I Am'?</h2>
+<p>
+<li>John 6:35: "I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst."</li>    
+<li>John 8:12: "I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life."</li>
+<li>John 8:58: "Before Abraham was, I AM."</li>
+<li>John 9:5: "As long as I am in the world, I am the light of the world."</li>    
+<li>John 10:7: "I am the door. If anyone enters by me, he will be saved and will go in and out and find pasture."</li>
+<li>John 10:9: "I am the door. If anyone enters by me, he will be saved and will go in and out and find pasture."</li>    
+<li>John 10:11: "I am the good shepherd. The good shepherd lays down his life for the sheep."</li>
+<li>John 11:25: "I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live."</li>
+<li>John 14:6: "I am the way, and the truth, and the life. No one comes to the Father except through me."</li>    
+<li>John 15:1: "I am the true vine, and my Father is the vinedresser."</li>
+</p>
+<p><a href="#verses Jesus said 'I Am'?">article 22 ~ OpenAI</a></p>
+<br> 
     Leave a Decentralized Comment Powered by <a href="https://0xecho.com/">0xecho</a>
 <div>
 <iframe src="https://embed.0xecho.com.ipns.page?color-theme=dark&desc=Decentralized%20Word&has-h-padding=true&has-v-padding=true&modules=comment%2Ctip&receiver=0x66f1941053E13730c7A9E78c39c8D5F965B5c9FB&target_uri=address%2F%7B%7BERC-1155%7D%7D%2F%7B%7B0x66f1941053E13730c7A9E78c39c8D5F965B5c9FB%7D%7D" frameborder="0" height="700" width="700" ></iframe>
