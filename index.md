@@ -379,6 +379,39 @@ Another perspective is that the sense of self is shaped by social and cultural i
 Overall, it is likely that the sense of self is influenced by both innate and acquired factors, and that it develops and changes over the course of an individual's life.</p>
   <p><a href="#is a sense of self innate?">article 18 ~ OpenAI</a></p>
   <br>
+  
+  <h2 id="what self-knowledge exist that is not a concept, idea, or myth?">what self-knowledge exist that is not a concept, idea, or myth?</h2>
+  
+  <p>Self-knowledge is the knowledge that one has of one's own thoughts, feelings, and experiences. It is often associated with concepts, ideas, and myths because these are the ways in which we typically represent and communicate our self-knowledge to ourselves and others. However, self-knowledge itself is not necessarily a concept, idea, or myth. It is a direct, experiential understanding of one's own inner state and being.
+
+For example, when you feel a sensation in your body, such as a pain or an itch, you do not need to rely on a concept or an idea to recognize and understand the sensation. You directly experience the sensation and have an immediate, non-conceptual awareness of it. This is an example of self-knowledge that is not a concept, idea, or myth.
+
+Self-knowledge can also be more subtle and abstract, such as an awareness of one's own thoughts and emotions. Even in these cases, however, the self-knowledge is not necessarily a concept, idea, or myth. It is simply an immediate, direct awareness of one's own inner state and being.</p>
+  <p><a href="#what self-knowledge exist that is not a concept, idea, or myth?">article 19 ~ OpenAI</a></p>
+  <br>
+  <h2 id="what knowledge exist that is not a concept, idea, or myth?">what knowledge exist that is not a concept, idea, or myth?</h2>
+  
+  <p>There are many forms of knowledge that are not concepts, ideas, or myths, but rather are based on empirical evidence and observation. For example:
+
+1. 
+    Scientific knowledge: This refers to knowledge that is based on systematic observation, experimentation, and analysis of empirical data. Science is constantly evolving as new discoveries are made and new theories are developed to explain observed phenomena.
+
+2. 
+    Historical knowledge: This refers to knowledge about the past, based on the study of primary and secondary sources, such as documents, artifacts, and oral histories.
+
+3. Practical knowledge: 
+    This refers to knowledge that is gained through hands-on experience and learning by doing. For example, a carpenter or mechanic may have practical knowledge about how to build or fix things.
+
+4. 
+    Experiential knowledge: This refers to knowledge that is gained through personal experiences and observations. For example, someone who has traveled extensively may have a wealth of experiential knowledge about different cultures and customs.
+
+5. 
+    Non-conceptual knowledge: Some philosophers argue that there are forms of knowledge that are not based on concepts or ideas, but rather are more direct and immediate. This might include knowledge of one's own experiences or sensations, for example.
+
+Overall, knowledge can take many forms and can be based on a wide range of sources, from empirical evidence and observation to personal experience and intuition.
+</p>
+  <p><a href="#what knowledge exist that is not a concept, idea, or myth?">article 20 ~ OpenAI</a></p>
+  <br>
     Leave a Decentralized Comment Powered by <a href="https://0xecho.com/">0xecho</a>
 <div>
 <iframe src="https://embed.0xecho.com.ipns.page?color-theme=dark&desc=Decentralized%20Word&has-h-padding=true&has-v-padding=true&modules=comment%2Ctip&receiver=0x66f1941053E13730c7A9E78c39c8D5F965B5c9FB&target_uri=address%2F%7B%7BERC-1155%7D%7D%2F%7B%7B0x66f1941053E13730c7A9E78c39c8D5F965B5c9FB%7D%7D" frameborder="0" height="700" width="700" ></iframe>
