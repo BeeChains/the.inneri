@@ -414,8 +414,12 @@ Overall, the "I AM" teachings of Jesus Christ are a powerful reminder of his div
   <br>
   <h2 id="verses Jesus said 'I Am'?">verses Jesus said 'I Am'?</h2>
 <p>
+<li>John 4:26: "I AM he, the one speaking to you."</li>
+<li>John 6:20: "It is I; do not be afraid."</li>
 <li>John 6:35: "I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst."</li>    
 <li>John 8:12: "I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life."</li>
+<li>John 8:24: "I told you that you would die in your sins, for unless you believe that I AM he you will die in your sins."</li>
+<li>John 8:28: "When you have lifted up the Son of Man, then you will know that I AM he."</li>  
 <li>John 8:58: "Before Abraham was, I AM."</li>
 <li>John 9:5: "As long as I am in the world, I am the light of the world."</li>    
 <li>John 10:7: "I am the door. If anyone enters by me, he will be saved and will go in and out and find pasture."</li>
