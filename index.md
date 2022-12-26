@@ -422,7 +422,7 @@ Overall, the "I AM" teachings of Jesus Christ are a powerful reminder of his div
 <li>John 8:28: "When you have lifted up the Son of Man, then you will know that I AM he."</li>  
 <li>John 8:58: "Before Abraham was, I AM."</li>
 <li>John 9:5: "As long as I am in the world, I am the light of the world."</li>    
-<li>John 10:7: "I am the door. If anyone enters by me, he will be saved and will go in and out and find pasture."</li>
+<li>John 10:7: “Very truly I tell you, I am the gate for the sheep.</li>
 <li>John 10:9: "I am the door. If anyone enters by me, he will be saved and will go in and out and find pasture."</li>    
 <li>John 10:11: "I am the good shepherd. The good shepherd lays down his life for the sheep."</li>
 <li>John 11:25: "I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live."</li>
@@ -433,6 +433,22 @@ Overall, the "I AM" teachings of Jesus Christ are a powerful reminder of his div
 </p>
 <p><a href="#verses Jesus said 'I Am'?">article 22 ~ OpenAI</a></p>
 <br> 
+  <body><!-- Bible Verse. https://biblia.com/plugins/BibleVerse -->
+<biblia:bibleverse theme="header" resource="esv" width="500" reference="Jn7.28"><blockquote style="width:500px;">So Jesus proclaimed, as he taught in the temple, "You know me, and you know where I come from. But I have not come of my own accord. He who sent me is true, and him you do not know. &mdash; <a target="_blank" href = "https://biblia.com/bible/esv/Jn7.28">Jn 7:28</a></blockquote></biblia:bibleverse>
+<!-- If you’re including multiple Biblia widgets, you only need this script tag once -->
+<script src="//biblia.com/api/logos.biblia.js"></script>
+<script>logos.biblia.init();</script></body>  
+<br>  
+<h2 id="a discourse on the psychological significance of 'I AM' in the Scriptures">a discourse on the psychological significance of 'I AM' in the Scriptures</h2>
+  
+<br>
+<p>The phrase "I AM" appears multiple times throughout the Scriptures, and it is often used in reference to God's self-identity. In the Old Testament, the phrase "I AM" is used to refer to God's existence and his self-sufficiency. For example, in Exodus 3:14, God says to Moses, "I AM WHO I AM," which is often translated as "I am the one who is" or "I am the one who exists." This phrase is meant to convey God's eternal and unchanging nature, as he is the self-existent being who has always existed and will always exist.
+
+The phrase "I AM" is also used in the New Testament, where it is often associated with Jesus Christ. In John 8:58, Jesus says, "Before Abraham was, I AM," which is seen as a reference to his divinity and his eternal nature as the Son of God. In this context, the phrase "I AM" is meant to convey that Jesus is the one who exists eternally, and that he is the source of all being.
+
+From a psychological perspective, the phrase "I AM" is significant because it speaks to the concept of self and identity. It is a declaration of one's own existence and self-sufficiency, and it is often used in a context of self-assertion or self-affirmation. In the context of the Scriptures, the phrase "I AM" is meant to convey the divine nature of God and his role as the source of all being. It is also a reminder that our own sense of self and identity is rooted in our relationship with God, and that we are ultimately dependent on him for our existence and well-being.</p>  
+<p><a href="#a discourse on the psychological significance of 'I AM' in the Scriptures">article 23 ~ OpenAI</a></p> 
+<br>  
     Leave a Decentralized Comment Powered by <a href="https://0xecho.com/">0xecho</a>
 <div>
 <iframe src="https://embed.0xecho.com.ipns.page?color-theme=dark&desc=Decentralized%20Word&has-h-padding=true&has-v-padding=true&modules=comment%2Ctip&receiver=0x66f1941053E13730c7A9E78c39c8D5F965B5c9FB&target_uri=address%2F%7B%7BERC-1155%7D%7D%2F%7B%7B0x66f1941053E13730c7A9E78c39c8D5F965B5c9FB%7D%7D" frameborder="0" height="700" width="700" ></iframe>
