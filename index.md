@@ -374,7 +374,9 @@ For example, when you feel a sensation in your body, such as a pain or an itch, 
 
 Self-knowledge can also be more subtle and abstract, such as an awareness of one's own thoughts and emotions. Even in these cases, however, the self-knowledge is not necessarily a concept, idea, or myth. It is simply an immediate, direct awareness of one's own inner state and being.</p>
   <p><a href="#what self-knowledge exist that is not a concept, idea, or myth?">article 19 ~ OpenAI</a></p>
+  <li><a href="https://ecency.com/iexistbeyondknowledge/@innerinetwork/what-self-knowledge-exist-that?referral=innerinetwork">@innerinetwork - Ecency</a></li>
   <br>
+  
   <h2 id="what knowledge exist that is not a concept, idea, or myth?">what knowledge exist that is not a concept, idea, or myth?</h2>
   
   <p>There are many forms of knowledge that are not concepts, ideas, or myths, but rather are based on empirical evidence and observation. For example:
