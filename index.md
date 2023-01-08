@@ -544,7 +544,8 @@ setInterval(function() {
   toggle = !toggle;
 }, 1000);
 </script>
- 
+<br>
+<iframe src="https://theinneri.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe> 
 <div id="social-widget">
   <a href="https://twitter.com/innerinetco"><i class="fab fa-twitter"></i> Twitter</a>
   <a href="https://facebook.com/innerinetcompany"><i class="fab fa-facebook-f"></i> Facebook</a>
